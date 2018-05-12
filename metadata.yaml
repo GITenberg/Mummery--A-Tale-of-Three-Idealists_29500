@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2603
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_Cannan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29500#Mummery--A-Tale-of-Three-Idealists
 gutenberg_issued: '2009-07-23'
 gutenberg_type: Text
 identifiers:
